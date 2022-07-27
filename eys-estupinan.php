@@ -83,7 +83,7 @@ document.getElementById("foto").src="./images/jairo.jpg";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
-
+document.getElementById("elnombre").innerHTML="Jairo Estupinan";
 
  document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-damaris.php'>¿Quién es Damaris Miranda?</a></p> ";
  </script>
