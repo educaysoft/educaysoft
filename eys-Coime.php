@@ -84,7 +84,7 @@ document.getElementById("foto").src="./images/John.jpg";
 document.getElementById("elnombre").innerHTML="Coime John";
 
 
-document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-kevin.php'>¿Quién es Kevin Aguilar?</a></p><p><a href='eys-estupinan.ph'>?Quien es Jairo Estupinan?</a></p><p> <a href='eys.janner.php'>?Quien es Janner Guagua?</a></p> ";
+document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-kevin.php'>¿Quién es Kevin Aguilar?</a></p><p><a href='eys-estupinan.php'>?Quien es Jairo Estupinan?</a></p><p> <a href='eys-janner.php'>?Quien es Janner Guagua?</a></p> ";
 
  </script>
  
