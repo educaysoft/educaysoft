@@ -42,7 +42,7 @@ include("marco-right.php");
 
 
                    <p  class="eys-parrafo">Durante mi carrera universitaria he logrado manejar herramientas como c++, VisualStudio y he trabajado con diferentes entornos como Atom, VisualStudio Code, sublime text y otros.</p>
-                   <p  class="eys-parrafo">Me gusta mucho aprender sobre temas informaticos, crear paginas web y aprender cada dia algo nuevo sobre la programación, me gustaria aprender a manejar herramientas como phyton y php.</p>
+                   <p  class="eys-parrafo">Me gusta mucho aprender sobre temas informaticos, crear paginas web y aprender cada dia algo nuevo sobre la programación, me gustaria aprender a manejar herramientas como php.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
@@ -85,7 +85,7 @@ document.getElementById("foto").src="./images/jairo.jpg";
 
 document.getElementById("elnombre").innerHTML="Jairo Estupinan";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-damaris.php'>¿Quién es Damaris Miranda?</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-damaris.php'>¿Quién es Damaris Miranda?</a></p><p><a href='eys-Coime.php'>??Qui??n es John Coime?</a></p><p><a href='eys-Janner.php'>??Qui??n es Janner Guagua?</a></p>  ";
  </script>
 <?php
 include("foot.php")
