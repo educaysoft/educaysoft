@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Damaris Miranda?</h1>
+        	<h1>?Quien es Coime John?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -35,18 +35,18 @@ include("marco-right.php");
 
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático Soy futuro ingeniero en sistemas informaticos y estoy inmersa en el ambito del desarrollo web. </h2> 
+    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático. </h2> 
     
 
 
-                   <p  class="eys-parrafo">Durante mi carrera universitaria he logrado manejar herramientas como HTML, CSS, Javascript y en el manejo de linux de forma basica.</p>
+                   <p  class="eys-parrafo">Lo que quiero lograr con en esta carrera es ser un buen ingeniero en Tecnologias de la informacion y adaptarme a cualquier contratiempo. Durante mi carrera universitaria he logrado manejar herramientas como HTML, CSS, Javascript y en el manejo de linux de forma basica.</p>
 
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mis pasatiempos son la lectura, la musica, la creaccion de juegos y dormir :v.</h2> 
+    <h2 style="border-bottom: 1px solid green;"> Mis pasatiempos</h2> 
     
 
-                   <p   class="eys-parrafo">En mis ratos libres prefiero jugar algun juego para despejar mi mente.</p>
+                   <p   class="eys-parrafo">Mis pasatiempos consisten en en dedicarme a mejorar mis habilidades como programador, leer, escuchar musica y pasar un poco el tiempo jugando videojuegos.</p>
        
 
                    
@@ -84,7 +84,7 @@ document.getElementById("foto").src="./images/John.jpg";
 document.getElementById("elnombre").innerHTML="Coime John";
 
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-kevin.php'>¿Quién es Kevin Aguilar?</a></p> ";
+document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-kevin.php'>¿Quién es Kevin Aguilar?</a></p><p><a href='eys-estupinan.ph'>?Quien es Jairo Estupinan?</a></p><p> <a href='eys.janner.php'>?Quien es Janner Guagua?</a></p> ";
 
  </script>
  
