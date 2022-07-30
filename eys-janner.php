@@ -82,8 +82,7 @@ document.getElementById("foto").src="./images/estiven.jpg";
 document.getElementById("elnombre").innerHTML="Janner Guagua";
 
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-kevin.php'>¿Quién es Kevin Aguilar?</a></p><p><a herf='eys-estupinan.php'>¿Quien es Jairo Estupinan?</a></p><p><a herf='eys-Coime.php'>??Quien es John Coime?</a></p>";
-
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-kevin.php'>¿Quién es Kevin Aguilar?</a></p><p><a herf='eys-estupinan.php'>¿Quien es Jairo Estupiñan? <p><a herf='eys-Coime.php'>¿Quien es Jhon Coime? ";
 
  </script>
 
