@@ -12,11 +12,11 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Jairo Estupi?an?</h1>
+        	<h1>¿Quién es Jairo Estupinan?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Jairo Estupi?an<br>
+                Posteado por:  Jairo Estupinan<br>
                 Fecha: 2022-07-26 <br>
           </div>
         </div>
@@ -85,7 +85,7 @@ document.getElementById("foto").src="./images/jairo.jpg";
 
 document.getElementById("elnombre").innerHTML="Jairo Estupinan";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-damaris.php'>¿Quién es Damaris Miranda?</a></p><p><a href='eys-Coime.php'>??Qui??n es John Coime?</a></p><p><a href='eys-Janner.php'>??Qui??n es Janner Guagua?</a></p>  ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-stalin.php'>¿Quién es Stalin Francis?</a></p><p><a href='eys-damaris.php'>¿Quién es Damaris Miranda?</a></p><p><a href='eys-Coime.php'>&#191;Qui&#233;n es John Coime?</a></p><p><a href='eys-janner.php'>&#191;Qui&#233;n es Janner Guagua?</a></p>  ";
  </script>
 <?php
 include("foot.php")
