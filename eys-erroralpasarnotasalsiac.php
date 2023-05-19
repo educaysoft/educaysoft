@@ -45,7 +45,7 @@ include("marco-right.php");
 
   <p class="eys-parrafo">Así tenemos el caso de Bustos Micolta Aldo Emanuel, estudiante destacado que mostraba mucho entusiamo y tuvo un buen desenvolvimeinto pero que nunca se dio cuenta que no tenia la asistencia del primer particial algo que no hubiera ocurrido si SICA el presentara con colores un avido de alerta <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01243.pdf">Caso Bustos</a>   </p>                 
                    
-<p class="eys-parrafo">Tambien el caso Jiron una estudiante que se matriculo atrasada( <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01243.pdf">Registro Classroom</a>) , pero que a pesar de esto demostro un desemvolvimento superior al de los demas estudiantes,     </p>
+<p class="eys-parrafo">Tambien el caso Jiron una estudiante que se matriculo atrasada( <a href=" https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01244.pdf">Registro Classroom</a>) , pero que a pesar de esto demostro un desemvolvimento superior al de los demas estudiantes,     </p>
 
 <p class="eys-parraf"> Es importante indicar que estos casos son de estudiante de primer ciclo, que a diferencia de estudiantes mas avanzados aun tinen dificultades manejar esta heramientas, </p>
 
