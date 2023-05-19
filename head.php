@@ -26,6 +26,9 @@
 }
 
 
+.link { color: #FF0000; } /* CSS link color (red) */
+.link:hover { color: #00FF00; } /* CSS link hover (green) */
+
 
         .navbar{
             overflow: hidden;
