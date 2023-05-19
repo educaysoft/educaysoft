@@ -26,22 +26,31 @@ include("marco-right.php");
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">Desde hace varios ciclos vengo cometiendo errores al pasar las calificaciones al SICA, y sin la intención de criticar el trabajo que realizan los compañero en el áreas de sistemas como el trabajo de cumplimeinto de las autoridades, quiero hacer un analisis sobre este problema a fin de demostrar que el culpa es compartida. </p>
                    <p class="eys-parrafo">Antes de ser docente soy profesional en el área de las TIC, con una ingenieria en Computación y dos maestria una en Desarrollo del Curricula y otro en Cienicas de la Computación<a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01238.pdf">Registro Senescyt</a>, al igual que toda profesiona, esta me exige estar actualizado y esto involucra a más de leer permanentemente los novedades en materia de avances teconológicos, utilizar herramientas informáticas que ayuden a ganar destrezas y habilidades en el manejo de las nuevas tecnologías como lo tengo escrito en la sección de computer skill and Interests de mi <a href="https://repositorioutlvte.org/Repositorio/2022-12-12-FQSA-01123.pdf">Hoja de vida</a> .</p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+<p class="eys-parrafo">Dejar de utilizar herramientas que si bien es cierto  ayudan a hacer las cosas muchas "más faciles" pero a la vez te implide crear destrezas y habilides en mi área profesional, implica verme ante los demás como un inutil o un mal profesional, puesto que lo que todo el mundo lo hace con agilidad por el hecho de que lo repetian muchas veces como el escribir un  documento en word o realizar una diapositiva, para mi se me hacia dificil y en el peor de los casos no lo podia hacer. </p>
+
+
+<p class="eys-parrafo">Pero en compensación actualmente puede utiliar heramientas que aunque no me den como resultados un documento de word, una diapositivo o una hoja de excel,  me permite crear contenidos muchos más interactivos como este que usted esta leyendo donde puede trasladarlo de forma inmediata a las referencias que apoyan mi argumentación</p>
+
+
+
 
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mis estudios</h2> 
-    
+    <h2 style="border-bottom: 1px solid green;"> Causas del problema</h2> 
 
+ <p class="eys-parrafo">Al igual que un accidente de transito donde es imposible crear que el herido o difunto toma su vehiculo y sale a las calles a accidentarse a propositio, yo y algunos docentes mas no cometemos las faltas o los errores al subier la información al SIAC, de forma premeditada para ser puesto en la lista negra de docentes que siemple pider correccion de notas</p>   
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+ <p class="eys-parrafo">El SICA, asi como los reportes que este arroja no tiene un mecanismo de retroalimentación para mostrar al docente en forma de alerta los estudiantes que se estan quedando <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01239.pdf">Reporde de nota final</a> lo que estoy corrigiendo enel sistemas que estoy creando <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01242.pdf">Reporte SIGECA</a>  </p>   
+
+                   
+                   
+
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
     
+
 
 
                    <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
