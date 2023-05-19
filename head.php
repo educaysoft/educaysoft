@@ -9,19 +9,17 @@
 <html lang="es">
 <head>
  <title> Educaysoft </title>
-	<meta charset="utf-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<meta charset="utf-8"/>
+	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<meta name="description" content="Biografía de Stalin Franciso" />
 
-<!-- CSS only -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
-
-
-	<link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/css/eys.css" />   
-	<link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/src/prettify.css" />   
-
-
-
+	<meta property="og:image" content="https://highkickesmeraldas.com/FrancisStalin/images/fotoperfil.png" />
+	<meta property="og:image:width" content="100" />
+	<meta property="og:image:height" content="100" />
+<!----        <meta name="viewport" content="width=device-width, initial-scale=1" /> --->
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/css/eys.css" />   
+<link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/src/prettify.css" />   
 <style>
 #wrapper {
 	background: #fff2;

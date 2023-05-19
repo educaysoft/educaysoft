@@ -8,23 +8,23 @@ include("head.php");
 include("marco-right.php");
 ?>
    
- <div style="float:left; width:60%; margin:60px auto; padding:1vw">
+<div style="float:left; width:60%; margin:60px auto; padding:1vw; border-left:1px solid gray; border-right:1px solid gray;">
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
         	<h1>¿Errores al pasar notas al SIAC?</h1>
        		 <hr>
              
-          <div id="posteo" style="text-align: left; font-size:0.5vw;">
+          <div id="posteo" style="text-align: left; font-size:0.8vw;">
                 Posteado por:  Stalin Francis<br>
-                Fecha: 2021-08-17 <br>
+                Fecha: 2023-08-19 <br>
           </div>
         </div>
     </div>
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Desde hace varios ciclos vengo cometiendo errores al pasar las calificaciones al SICA, y sin la intención de criticar el trabajo que realizan los compañero en el áreas de sistemas como el trabajo de cumplimeinto de las autoridades, quiero hacer un analisis sobre este problema a fin de demostrar que el culpa es compartida. </p>
+                   <p class="eys-parrafo">Desde hace varios ciclos vengo cometiendo errores al pasar las calificaciones al SIAC, y sin la intención de criticar el buen trabajo que realizan los compañero en de área de sistemas así como el trabajo de las autoridades, quiero hacer un análisis sobre este problema a fin de demostrar que el culpa es compartida. </p>
                    <p class="eys-parrafo">Antes de ser docente soy profesional en el área de las TIC, con una ingenieria en Computación y dos maestria una en Desarrollo del Curricula y otro en Cienicas de la Computación<a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01238.pdf">Registro Senescyt</a>, al igual que toda profesiona, esta me exige estar actualizado y esto involucra a más de leer permanentemente los novedades en materia de avances teconológicos, utilizar herramientas informáticas que ayuden a ganar destrezas y habilidades en el manejo de las nuevas tecnologías como lo tengo escrito en la sección de computer skill and Interests de mi <a href="https://repositorioutlvte.org/Repositorio/2022-12-12-FQSA-01123.pdf">Hoja de vida</a> .</p>
 <p class="eys-parrafo">Dejar de utilizar herramientas que si bien es cierto  ayudan a hacer las cosas muchas "más faciles" pero a la vez te implide crear destrezas y habilides en mi área profesional, implica verme ante los demás como un inutil o un mal profesional, puesto que lo que todo el mundo lo hace con agilidad por el hecho de que lo repetian muchas veces como el escribir un  documento en word o realizar una diapositiva, para mi se me hacia dificil y en el peor de los casos no lo podia hacer. </p>
 
@@ -97,7 +97,7 @@ include("marco-left.php")
 document.getElementById("foto").src="./images/stalin.png";
 document.getElementById("elnombre").innerHTML="Stalin Francis";
 
- document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
+ document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>Antecendente</a></p><p><a href='#blog-seccion2'>Causas del problema</a></p><p><a href='#blog-seccion3'>Culpa compartida</a></p><p><a href='#blog-seccion4'>La Solución</a></p>";
 
  document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
  </script>
