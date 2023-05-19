@@ -43,24 +43,27 @@ include("marco-right.php");
 
  <p class="eys-parrafo">El SICA, asi como los reportes que este arroja no tiene un mecanismo de retroalimentación para mostrar al docente en forma de alerta los estudiantes que se estan quedando <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01239.pdf">Reporde de nota final</a> lo que estoy corrigiendo enel sistemas que estoy creando <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01242.pdf">Reporte SIGECA</a>  </p>   
 
+  <p class="eys-parrafo">Así tenemos el caso de Bustos Micolta Aldo Emanuel, estudiante destacado que mostraba mucho entusiamo y tuvo un buen desenvolvimeinto pero que nunca se dio cuenta que no tenia la asistencia del primer particial algo que no hubiera ocurrido si SICA el presentara con colores un avido de alerta <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01243.pdf">Caso Bustos</a>   </p>                 
                    
-                   
+<p class="eys-parrafo">Tambien el caso Jiron una estudiante que se matriculo atrasada( <a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01243.pdf">Registro Classroom</a>) , pero que a pesar de esto demostro un desemvolvimento superior al de los demas estudiantes,     </p>
+
+<p class="eys-parraf"> Es importante indicar que estos casos son de estudiante de primer ciclo, que a diferencia de estudiantes mas avanzados aun tinen dificultades manejar esta heramientas, </p>
 
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
+    <h2 style="border-bottom: 1px solid green;"> No me deslindo de mi culpa</h2> 
     
 
 
 
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+                   <p  class="eys-parrafo">Estoy conciente que con un poco más de cuidad estoy herrores no hubieran ocurrido, pero como indique en el antecedente, antes que docente soy profesional en el campo esta tan dinamica carrera de la Tecnologia de la Información  y comunicación</p> 
+                   <p  class="eys-parrafo">Por esta motivo me afecta la fallas de los sistemas informáticos, y estoy trabajando en un sistemas que permite supler esta valencias, pero para esto necesito dedicarle tiempo de calidad, es un trabajo que vengo haciendo desde ya varios años atras y con el avance que tengo es imposible dejarlo atras.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
+    <h2 style="border-bottom: 1px solid green;"> SOLUCION</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Solicito me permitan modificar las calificaciones de los tres estudiantes del primeros ciclos que han tenido estoy problemas que han  sido del proferosr y del sistemas tencologigico, y que si con la arqumentación dada de una forma detallado, pido me asignen asignatura de niveles superiores para pode seguir conm eltrabajo que me he propuesta.</p>
        
 
                    
