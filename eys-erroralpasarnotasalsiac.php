@@ -25,8 +25,9 @@ include("marco-right.php");
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">Desde hace varios ciclos vengo cometiendo errores al pasar las calificaciones al SICA, y sin la intención de criticar el trabajo que realizan los compañero en el áreas de sistemas como el trabajo de cumplimeinto de las autoridades, quiero hacer un analisis sobre este problema a fin de demostrar que el culpa es compartida. </p>
-                   <p class="eys-parrafo">Antes de ser docente soy profesional en el área de las TIC, con una ingenieria en Computación y dos maestria una en Desarrollo del Curricula y otro en Cienicas de la Computación<a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01238.pdf">Registro Senescyt</a></p>
+                   <p class="eys-parrafo">Antes de ser docente soy profesional en el área de las TIC, con una ingenieria en Computación y dos maestria una en Desarrollo del Curricula y otro en Cienicas de la Computación<a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01238.pdf">Registro Senescyt</a>, al igual que toda profesiona, esta me exige estar actualizado y esto involucra a más de leer permanentemente los novedades en materia de avances teconológicos, utilizar herramientas informáticas que ayuden a ganar destrezas y habilidades en el manejo de las nuevas tecnologías como lo tengo escrito en la sección de computer skill and Interests de mi <a href="https://repositorioutlvte.org/Repositorio/2022-12-12-FQSA-01123.pdf">Hoja de vida</a> .</p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
