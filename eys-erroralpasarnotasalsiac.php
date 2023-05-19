@@ -24,8 +24,8 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Desde hace varios ciclos vendo cometiendo errores al pasar las calificaciones al SICA, y quiero hacer un analisis sobre este probleman. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas dos áres del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la ESPOL, me he dedicado a la programación de computadoras. </p>
+                   <p class="eys-parrafo">Desde hace varios ciclos vengo cometiendo errores al pasar las calificaciones al SICA, y sin la intención de criticar el trabajo que realizan los compañero en el áreas de sistemas como el trabajo de cumplimeinto de las autoridades, quiero hacer un analisis sobre este problema a fin de demostrar que el culpa es compartida. </p>
+                   <p class="eys-parrafo">Antes de ser docente soy profesional en el área de las TIC, con una ingenieria en Computación y dos maestria una en Desarrollo del Curricula y otro en Cienicas de la Computación<a href="https://repositorioutlvte.org/Repositorio/2023-05-19-FQSA-01238.pdf">Registro Senescyt</a></p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
