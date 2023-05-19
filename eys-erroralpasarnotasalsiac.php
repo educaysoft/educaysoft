@@ -98,6 +98,7 @@ document.getElementById("foto").src="./images/stalin.png";
 document.getElementById("elnombre").innerHTML="Stalin Francis";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>Antecendente</a></p><p><a href='#blog-seccion2'>Causas del problema</a></p><p><a href='#blog-seccion3'>Culpa compartida</a></p><p><a href='#blog-seccion4'>La Solución</a></p>";
+ document.getElementById("descripcion").innerHTML="Errores al pasar notas al SIAC";
 
  document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
  </script>
